@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955496842317",
+    "firebase_url": "https://chatril.firebaseio.com",
+    "project_id": "chatril",
+    "storage_bucket": "chatril.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955496842317:android:163bb2f74de2dcd5b64804",
+        "android_client_info": {
+          "package_name": "com.example.chatril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955496842317-8cdeti4tjia5d6ktrn0b98gcda27am90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatril",
+            "certificate_hash": "c343f095ba691838a9d4975e10205d01c3377a88"
+          }
+        },
+        {
+          "client_id": "955496842317-9lr2nb5ceuihk1rh6enet3i7skkoe1ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPppFCTjhNc_tyrS_D5k39n_QSqd0nuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955496842317-9lr2nb5ceuihk1rh6enet3i7skkoe1ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
